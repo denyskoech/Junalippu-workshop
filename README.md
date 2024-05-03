@@ -1,2 +1,2 @@
 # Junalippu workshop
- A practice run for team development collaboration
+ A practice run exercise for team development collaboration efforts. 
